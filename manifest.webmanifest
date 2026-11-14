@@ -1,0 +1,16 @@
+{
+  "name": "Haasewald",
+  "short_name": "Haasewald",
+  "description": "Map of the Haasewald land: parcels, contours, land trails and family locations.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FBFAF6",
+  "theme_color": "#24402B",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
